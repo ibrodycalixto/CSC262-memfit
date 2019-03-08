@@ -1,0 +1,8 @@
+pool next 1000
+alloc A 100
+alloc B 50
+alloc C 50
+alloc D 50
+alloc E 50
+alloc F 100
+alloc G 100
