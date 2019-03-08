@@ -1,0 +1,6 @@
+pool worst 1000
+alloc A 100
+alloc B 300
+alloc C 400
+free B
+alloc D 200

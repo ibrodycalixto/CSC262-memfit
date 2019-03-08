@@ -1,0 +1,22 @@
+pool next 1000
+alloc A 100
+alloc B 100
+alloc C 100
+alloc D 100
+alloc E 100
+alloc F 100
+alloc G 100
+alloc H 100
+alloc I 100
+alloc J 100
+alloc FAIL 50
+free B
+free D
+free F
+free H
+free J
+alloc K 50
+alloc L 50
+alloc M 50
+alloc N 50
+alloc O 50

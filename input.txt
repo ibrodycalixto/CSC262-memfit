@@ -1,4 +1,4 @@
-pool next 1000
+pool first 1000
 alloc A 200
 alloc B 300
 alloc C 100
@@ -9,4 +9,5 @@ alloc F 200
 free D
 alloc G 100
 alloc H 100
+alloc I 300
 
